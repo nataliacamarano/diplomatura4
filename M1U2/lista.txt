@@ -1,0 +1,4 @@
+pan 
+galletas
+vino
+azucar
