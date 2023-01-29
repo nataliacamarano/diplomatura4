@@ -1,0 +1,42 @@
+body{
+   background-color: rgb(221, 216, 157);
+   margin: 3cm;
+
+}
+h1{
+   color: red;
+   text-transform:capitalize;
+   text-align: center;
+   margin-block: 2px;
+   text-decoration: underline;
+  
+}
+p{
+   font-style: italic;
+   line-height: 20px;
+   font-weight: bold;
+   color: red;
+
+}
+h2{
+   text-transform: capitalize;
+   font-style: italic;
+   line-height: 3px;
+   color: red;
+   text-decoration-line: overline;
+}
+
+h3{
+   color: black;
+   font-size: 16;
+   font-style: italic;
+   height: 16px;
+   text-align: center;
+   
+}
+h4{
+   color:rgb(44, 44, 93)
+}
+li{
+   font-style: italic;
+}
